@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+#Intellij IDEA files
+*.iml
+.idea/
+
+#All hidden files/directories
+.*
