@@ -5,6 +5,9 @@
 *.war
 *.ear
 
+#Maven target directory
+target/
+
 #Intellij IDEA files
 *.iml
 .idea/
